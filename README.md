@@ -5,6 +5,9 @@ and provided to the required microservice. The file pulled is based on the name 
 
 e.g If the value of spring.application.name=app in the application properties of the application. The config file from this repo with name 
 app.properties, app.yml and aplication.properties will be returned. Below is an exemple response
+
+## Exemple
+
 ```
 {
     "name": "app",
