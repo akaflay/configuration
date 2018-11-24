@@ -27,7 +27,7 @@ app.properties, app.yml and aplication.properties will be returned. Below is an 
         {
             "name": "https://github.com/akaflay/configuration//app.yml",
             "source": {
-                "server.port": 8082
+                "server.port": 8083
             }
         },
         {
