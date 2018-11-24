@@ -31,7 +31,7 @@ app.properties, app.yml and aplication.properties will be returned. Below is an 
             "source": {
                 "db.url": "jdbc:mysql://127.0.0.1/college",
                 "db.user": "root",
-                "db.password": "root"
+                "db.password": "rootroot"
             }
         },
         {
@@ -39,7 +39,7 @@ app.properties, app.yml and aplication.properties will be returned. Below is an 
             "source": {
                 "db.url": "jdbc:mysql://127.0.0.1/college",
                 "db.user": "root",
-                "db.password": "root"
+                "db.password": "rootroot"
             }
         }
     ]
