@@ -3,5 +3,5 @@ db:
   jdbc:mysql://127.0.0.1/college
  user:
   root
- password
+ password:
   rootroot
