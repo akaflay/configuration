@@ -1,4 +1,4 @@
-# configuration
+# Configurations
 
 This is just a git repo where we can add all the different properties for different Micro services. These properties can be pulled by the config server
 and provided to the required microservice. The file pulled is based on the name of the application.
@@ -39,3 +39,6 @@ app.properties, app.yml and aplication.properties will be returned. Below is an 
     ]
 }
 ```
+
+## Questions and Concerns
+https://better-coder.slack.com/
