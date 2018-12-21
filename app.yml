@@ -1,6 +1,6 @@
 db:
  url:
-  jdbc:mysql://127.0.0.1/college
+  jdbc:mysql://127.0.0.1:3306/college
  user:
   root
  password:
